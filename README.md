@@ -6,3 +6,4 @@ My goal:
 -Learn python
 -Learn AI development
 -Build my own products
+-Today I learned what a commit is
