@@ -9,3 +9,5 @@ My goal:
 -Today I learned what a commit is
 This line is only for testing
 Today I created my first branch
+## About
+I'm learning GitHub step by step
